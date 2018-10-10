@@ -1,0 +1,61 @@
+<script type="application/ld+json">
+	{
+		"@context": {
+			"@vocab": "http://schema.org/"
+		},
+		"@graph": [
+			{
+				"@id": "https://vukhanhhai.com",
+				"@type": "Organization",
+				"name": "Your Business Name",
+				"url" : "https://vukhanhhai.com",
+				"logo" : "https://vukhanhhai.com/images/logo.png",
+				"image": "https://vukhanhhai.com/images/logo.png",
+				"email": "theglutenfreedonutplace@url.com",
+				"description": "",
+				"sameAs" : [ "https://www.facebook.com/...",
+					"https://twitter.com/...",
+					"https://plus.google.com/...",
+					"https://www.youtube.com/user/..." ]
+			},
+			{
+				"@type": "LocalBusiness",
+				"parentOrganization": {
+					"name" : "Your Business Name"
+				},
+				"name" : "Your Business Name",
+				"image" : "https://vukhanhhai.com/images/logo.png",
+				"address": {
+					"@type" : "PostalAddress",
+					"streetAddress": "123 tên đường",
+					"addressLocality": "Quận ...",
+					"addressRegion": "Thành phố",
+					"postalCode": "700000",
+					"telephone" : "01234 567 891"
+				},
+				"openingHours": [ "Mo-Fr 09:00-18:00", "Sa 10:00-16:00" ],
+				"description" : "",
+				"hasmap" : "URL Google Maps"
+			},
+			{
+				"@type": "LocalBusiness",
+				"parentOrganization": {
+					"name" : "Your Business Name"
+				},
+				"name" : "Your Business Name",
+				"image" : "https://vukhanhhai.com/images/logo.png",
+				"address": {
+					"@type" : "PostalAddress",
+					"streetAddress": "123 tên đường",
+					"addressLocality": "Quận ...",
+					"addressRegion": "Thành phố",
+					"postalCode": "700000",
+					"telephone" : "01234 567 891"
+				},
+				"openingHours": [ "Mo-Fr 09:00-18:00", "Sa 10:00-16:00" ],
+				"description" : "",
+				"hasmap" : "URL Google Maps"
+			}
+		]
+	}
+</script>
