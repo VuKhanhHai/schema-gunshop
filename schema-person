@@ -1,0 +1,29 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Person",
+  "name": "Lê Nam",
+  "gender":"Male",
+  "birthDate":"1990.06.16",
+  "url": "http://gunshop.vn",
+  "image": "http://gunshop.vn/images/logo.png",
+  "telephone": "1234 567 890",
+  "nationality": "Viet Nam",
+  "sameAs": [
+    "",
+    ""
+  ],
+  "jobTitle": "CEO",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Công Ty TNHH TM NAM TOÀN THỊNH"
+  },
+  "address": {
+			"@type": "PostalAddress",
+			"streetAddress": "địa chỉ chủ doanh nghiệp",		//địa chỉ chủ doanh nghiệp
+			"addressLocality": "Quận ...",
+			"addressRegion": "Hồ Chí Minh",
+			"postalCode": "700000"
+	}
+}
+</script>
