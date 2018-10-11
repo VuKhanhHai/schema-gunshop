@@ -1,7 +1,7 @@
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
-  "@type": "LodgingBusiness",
+  "@type": "LocalBusiness",
   "name": "GunShop",
   "image": "http://gunshop.vn/fileman/Uploads/banner_map11.jpg",
   "@id": "http://gunshop.vn",
@@ -11,6 +11,7 @@
     "@type": "PostalAddress",
     "streetAddress": "144/17 Bình Lợi",
     "addressLocality": "Bình Thạnh",
+    "addressRegion":"Hồ Chí Minh",
     "postalCode": "700000",
     "addressCountry": "VN"
   },
