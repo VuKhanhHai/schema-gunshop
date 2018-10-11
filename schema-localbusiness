@@ -7,6 +7,7 @@
   "@id": "http://gunshop.vn",
   "url": "http://gunshop.vn",
   "telephone": "0938 133 165",
+  "description": "A superb collection of fine gifts and clothing to accent your stay in Mexico Beach.",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "144/17 Bình Lợi",
