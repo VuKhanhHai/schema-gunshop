@@ -1,0 +1,47 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "LodgingBusiness",
+  "name": "GunShop",
+  "image": "http://gunshop.vn/fileman/Uploads/banner_map11.jpg",
+  "@id": "http://gunshop.vn",
+  "url": "http://gunshop.vn",
+  "telephone": "0938 133 165",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "144/17 Bình Lợi",
+    "addressLocality": "Bình Thạnh",
+    "postalCode": "700000",
+    "addressCountry": "VN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 10.8261695,
+    "longitude": 106.7063731
+  },
+  "openingHoursSpecification": [{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "08:00",
+    "closes": "20:00"
+  },{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "opens": "08:00",
+    "closes": "21:00"
+  }],
+  "sameAs": [
+    "",
+    ""
+  ]
+}
+</script>
