@@ -1,0 +1,29 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/", 
+  "@type": "Product", 
+  "name": "Khẩu trang y tế 3 lớp chính hãng XS Pro - Hộp 50 chiếc - Màu xanh",
+  "image": "http://gunshop.vn/upload/images_product/full_images/khau-trang-y-te-3-lop-chinh-hang-xs-pro-hop-50-chiec-mau-xanh-309_20180616014816.jpg",
+  "description": "Thiết kế hiện đại chính là điều tạo nên sự thành công cho Khẩu trang XS Pro. XS Pro được thiết kế vừa vặn khuôn mặt, ôm sát mũi, dễ điều chỉnh cho phù hợp với người dùng.Thanh tựa mũi cố định giúp khẩu trang đúng vị trí và tạo độ kín. Cùng với 2 dây thun đeo tai hai bên có độ co giãn tốt, sản phẩm thích hợp sử dụng cho cả nam và nữ, người lớn lẫn các em nhỏ trong gia đình bạn.",
+  "brand": {
+   "@type": "Thing",
+   "name": "N/A"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "VND",
+    "price": "50000",
+    "availability": "http://schema.org/InStock",
+    "itemCondition": "http://schema.org/NewCondition",
+    "seller": {
+     "@type": "Organization",
+     "name": "GunShop"
+   }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "100"
+  }
+}
+</script>
