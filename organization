@@ -1,7 +1,7 @@
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
-  "@type": "GovernmentOrganization",
+  "@type": "Organization",
   "name": "Công Ty TNHH TM NAM TOÀN THỊNH",
   "alternateName": "NAMTOANTHINH CO.,LTD",
   "url": "http://gunshop.vn",
@@ -10,7 +10,7 @@
     "@type": "ContactPoint",
     "telephone": "028 6682 4267",
     "contactType": "customer service",
-    "contactOption": ["TollFree","HearingImpairedSupported"],
+    "contactOption": ["TollFree"],
     "areaServed": "VN",
     "availableLanguage": "Vietnamese"
   },{
