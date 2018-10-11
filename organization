@@ -1,0 +1,25 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "GovernmentOrganization",
+  "name": "Công Ty TNHH TM NAM TOÀN THỊNH",
+  "alternateName": "NAMTOANTHINH CO.,LTD",
+  "url": "http://gunshop.vn",
+  "logo": "http://gunshop.vn/images/logo.png",
+  "contactPoint": [{
+    "@type": "ContactPoint",
+    "telephone": "028 6682 4267",
+    "contactType": "customer service",
+    "contactOption": ["TollFree","HearingImpairedSupported"],
+    "areaServed": "VN",
+    "availableLanguage": "Vietnamese"
+  },{
+    "@type": "ContactPoint",
+    "telephone": "0938 133 165",
+    "contactType": "sales",
+    "contactOption": "TollFree",
+    "areaServed": "VN",
+    "availableLanguage": "Vietnamese"
+  }]
+}
+</script>
