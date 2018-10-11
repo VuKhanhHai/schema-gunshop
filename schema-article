@@ -1,0 +1,34 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Tiêu đề bài viết",
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://gunshop.vn/upload/images_product/full_images/khau-trang-y-te-3-lop-chinh-hang-xs-pro-hop-50-chiec-mau-xanh-309_20180616014816.jpg",
+    "width": 800,
+    "height": 600
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://gunshop.vn/khau-trang-y-te-3-lop-chinh-hang-xs-pro-hop-50-chiec-mau-xanh-309.html"
+  },
+  "description": "Thiết kế hiện đại chính là điều tạo nên sự thành công cho Khẩu trang XS Pro. XS Pro được thiết kế vừa vặn khuôn mặt, ôm sát mũi, dễ điều chỉnh cho phù hợp với người dùng.Thanh tựa mũi cố định giúp khẩu trang đúng vị trí và tạo độ kín. Cùng với 2 dây thun đeo tai hai bên có độ co giãn tốt, sản phẩm thích hợp sử dụng cho cả nam và nữ, người lớn lẫn các em nhỏ trong gia đình bạn.",
+  "datePublished": "2018-10-01",
+  "dateModified": "2018-10-11",
+  "author": {
+    "@type": "Organization",
+    "name": "GunShop"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "GunShop",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://gunshop.vn/images/logo.png",
+      "width": 163,
+      "height": 59
+    }
+  }
+}
+</script>
